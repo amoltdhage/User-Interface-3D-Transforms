@@ -2,12 +2,12 @@
 
 This sample code demonstrates applying 3D effects to an arbitrary UIView. 
 A few different views are chosen randomly to facilitate this example : 
-#images, 
-#a map view, 
-#and a web view. 
+# images, 
+# a map view, 
+# a web view. 
 A view hierarchy is shown that is akin to the tab switching user experience in Safari on iOS and the 3D nature of this effect is implemented using CALayer's CATransform3D.
 
-
+# Image description
 
 ![Image description](https://github.com/amoltdhage/User-Interface-3D-Transforms/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202019-12-18%20at%2002.37.14.png)
 
